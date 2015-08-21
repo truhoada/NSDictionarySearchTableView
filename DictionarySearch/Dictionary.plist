@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>Angel Dimaria</string>
+		<string>Antonio Valencia</string>
+		<string>Ander Lindegaard</string>
+		<string>Ashley Young</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>Benzema</string>
+		<string>Bale</string>
+		<string>Benteke</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>Cristiano Ronaldo</string>
+		<string>Carrick</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>Dimaria</string>
+		<string>Darmian</string>
+		<string>De Gea</string>
+		<string>Drogba</string>
+		<string>De Rossi</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>Erik Cantona</string>
+		<string>Edison Cavani</string>
+		<string>Ed Wood</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>Falcao</string>
+		<string>Fernaldo Torres</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>Giovani</string>
+		<string>Giround</string>
+	</array>
+	<key>H</key>
+	<array>
+		<string>h1</string>
+		<string>h2</string>
+	</array>
+	<key>I</key>
+	<array>
+		<string>i1</string>
+		<string>i2</string>
+	</array>
+	<key>J</key>
+	<array>
+		<string>j1</string>
+		<string>j2</string>
+		<string>j3</string>
+	</array>
+	<key>K</key>
+	<array>
+		<string>k1</string>
+		<string>k2</string>
+	</array>
+	<key>L</key>
+	<array>
+		<string>l1</string>
+		<string>l2</string>
+		<string>l3</string>
+	</array>
+	<key>M</key>
+	<array>
+		<string>m1</string>
+		<string>m2</string>
+	</array>
+	<key>N</key>
+	<array>
+		<string>n1</string>
+		<string>n2</string>
+	</array>
+	<key>O</key>
+	<array>
+		<string>o1</string>
+		<string>o2</string>
+	</array>
+	<key>P</key>
+	<array>
+		<string>p1</string>
+		<string>p2</string>
+	</array>
+	<key>Q</key>
+	<array>
+		<string>q1</string>
+		<string>q2</string>
+	</array>
+	<key>R</key>
+	<array>
+		<string>r1</string>
+		<string>r2</string>
+	</array>
+	<key>S</key>
+	<array>
+		<string>s1</string>
+		<string>s2</string>
+	</array>
+	<key>T</key>
+	<array>
+		<string>t1</string>
+		<string>t2</string>
+	</array>
+	<key>U</key>
+	<array>
+		<string>u1</string>
+		<string>u2</string>
+	</array>
+	<key>V</key>
+	<array>
+		<string>v1</string>
+		<string>v2</string>
+	</array>
+	<key>W</key>
+	<array>
+		<string>w1</string>
+		<string>w2</string>
+	</array>
+	<key>X</key>
+	<array>
+		<string>x1</string>
+	</array>
+	<key>Y</key>
+	<array>
+		<string>y1</string>
+	</array>
+	<key>Z</key>
+	<array>
+		<string>z1</string>
+	</array>
+</dict>
+</plist>
